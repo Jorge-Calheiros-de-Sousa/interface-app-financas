@@ -1,3 +1,3 @@
 # interface-app-financas
 
-## App sistema financeiro com React Native 
+## Interface de um app sistema financeiro com React Native 
